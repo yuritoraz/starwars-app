@@ -1,3 +1,20 @@
+## 📜 Direitos Autorais
+
+Este site não é afiliado, endossado ou patrocinado pela Lucasfilm Ltd., Disney ou qualquer uma de suas subsidiárias.  
+Star Wars e todos os personagens, locais e veículos são marcas registradas da Lucasfilm Ltd.  
+
+Os dados e imagens apresentados são obtidos de fontes públicas, incluindo:
+
+- [Star Wars Databank](https://starwars-databank.vercel.app/)
+- [Star Wars Wiki](https://starwars.fandom.com/wiki/Main_Page)
+
+**Uso de conteúdo:**  
+As imagens e informações pertencem aos seus respectivos proprietários.  
+O site é um projeto de código aberto, sem fins lucrativos, criado apenas para fins educacionais e informativos.
+
+
+📩 Para sugestões ou dúvidas, entre em contato pelo e-mail: [yuri.dev@hotmail.com](mailto:yuri.dev@hotmail.com).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -29,8 +46,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
